@@ -53,6 +53,9 @@ img{
   border-radius: 50%;
 }
 
+.hidden{
+  display: none;
+}
 .prev{
   top: 10px;
   right: 50%;
